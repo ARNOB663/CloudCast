@@ -61,11 +61,6 @@ A modern, feature-rich Weather App built with **ReactJS**, **TypeScript**, **Tan
 - `SearchBar`: Allows users to search for a city.
 - `Favorites`: Manages and displays the list of favorite cities.
 
-### Hooks:
-
-- `useWeatherData`: Custom hook to fetch weather data.
-- `useSearchHistory`: Manages search history using TanStack Query.
-- `useTheme`: Controls the dark/light mode.
 
 ## API Integration
 
@@ -73,32 +68,6 @@ A modern, feature-rich Weather App built with **ReactJS**, **TypeScript**, **Tan
 - **Data Fetching**: Uses TanStack Query for efficient caching and state management.
 - **Mutations**: For updating favorites and search history.
 
-## Screenshots
-
-Add some screenshots here to showcase your app's design and functionality.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 
