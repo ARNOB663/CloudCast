@@ -1,4 +1,4 @@
-# Weather App
+# CloudCast
 
 A modern, feature-rich Weather App built with **ReactJS**, **TypeScript**, **TanStack Query**, and **ShadCN**. This application provides real-time weather updates, forecasts, and additional functionalities to enhance the user experience.
 
@@ -23,8 +23,7 @@ A modern, feature-rich Weather App built with **ReactJS**, **TypeScript**, **Tan
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
-   cd weather-app
+   git@github.com:ARNOB663/CloudCast.git
    ```
 
 2. Install dependencies:
