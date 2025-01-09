@@ -23,7 +23,7 @@ A modern, feature-rich Weather App built with **ReactJS**, **TypeScript**, **Tan
 
 1. Clone the repository:
    ```bash
-  git@github.com:ARNOB663/CloudCast.git
+   git@github.com:ARNOB663/CloudCast.git
    ```
 
 2. Install dependencies:
