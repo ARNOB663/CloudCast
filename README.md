@@ -19,6 +19,11 @@ A modern, feature-rich Weather App built with **ReactJS**, **TypeScript**, **Tan
 - **ShadCN**: For a customizable and accessible component library.
 - **Weather API**: Used to fetch real-time weather data and forecasts.
 
+## Deployment
+
+Access the live version of the app:  
+[CloudCast Deployment](https://fabulous-fenglisu-81646e.netlify.app/) 
+
 ## Installation
 
 1. Clone the repository:
